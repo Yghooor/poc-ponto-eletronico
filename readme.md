@@ -33,13 +33,13 @@ Os recursos foram provisionados na região **US East (N. Virginia) [us-east-1]**
 ## ✅ Evidências de Validação (Console AWS)
 
 **1. Usuário IAM criado com sucesso:**
-![Usuário IAM criado]("C:\Users\Yghor\MVP PONTO ELETRÔNICO\assets\users.png")
+![Usuário IAM criado](assets/users.png)
 
 **2. Grupo IAM e Política de Menor Privilégio:**
-![Grupo e Política IAM]("C:\Users\Yghor\MVP PONTO ELETRÔNICO\assets\policies.png")
+![Grupo e Política IAM](assets/policies.png)
 
 **3. Key Pair gerada na região us-east-1:**
-![Key Pair no Console]("C:\Users\Yghor\MVP PONTO ELETRÔNICO\assets\Key-pairs.png")
+![Key Pair no Console](assets/Key-pairs.png)
 
 **4. Execução do Terraform no Terminal:**
-![Sucesso no Terminal]("C:\Users\Yghor\MVP PONTO ELETRÔNICO\assets\terraform.png")
+![Sucesso no Terminal](assets/terraform.png)
