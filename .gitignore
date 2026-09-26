@@ -1,0 +1,10 @@
+# Ignora os plugins pesados do Terraform
+.terraform/
+.terraform.lock.hcl
+
+# Ignora os arquivos de estado (Contêm dados sensíveis)
+*.tfstate
+*.tfstate.*
+
+# Ignora chaves privadas de segurança
+*.pem
